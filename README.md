@@ -43,5 +43,15 @@ In this instructional guide, made by [Josh Makador](https://www.youtube.com/@Jos
 ![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image4.png)
 ![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image5.png)
 
-<h2>Install Windows Server 2019 on the virtual machine and assign IP addresses for the internal network.</h2>
+<h2>Install Windows Server 2019 on the virtual machine and configure IP addressing for the internal network.</h2>
 
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image6.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image7.png)
+
+<h2>Name the server and install Active Directory to set up the domain</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image8.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image9.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image10.png)
+
+<h2>Configure routing to enable clients on the private network to access the internet through the domain controller.</h2>
