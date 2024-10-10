@@ -18,7 +18,7 @@ In this instructional guide, we will systematically guide you through the proces
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Download Virtual Box, Windows 10, and Windows Server 2019: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
