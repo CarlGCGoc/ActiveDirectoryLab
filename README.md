@@ -24,3 +24,14 @@ In this instructional guide, we will systematically guide you through the proces
 <h2>Diagram</h2>
 
 ![image alt](https://github.com/CarlGoc/ActiveDirectoryLab/blob/559c8f44ad1d79d95b803d8aa07443839d10cd83/active_directory_diagram.jpg)
+
+<h2>Download and install Oracle VirtualBox from the official website.</h2>
+
+[Oracle Virtual Box](https://www.virtualbox.org/)
+
+<h2>Download the ISO files for Windows 10 and Windows Server 2019.</h2>
+
+[Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) [Windows 2019 Server](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+
+<h2>Create a new virtual machine in VirtualBox by clicking 'New,' naming it 'Domain Controller,' and selecting the Windows Server 2019 ISO file as the boot media.</h2>
+
