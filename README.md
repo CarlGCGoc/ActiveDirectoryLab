@@ -7,8 +7,14 @@ In this instructional guide, we will systematically guide you through the proces
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Powershell</b> 
+- <b>Bash</b>
+- <b>Python</b>
+- <b>Windows Server</b>
+- <b>Active Directory Users and Computers (ADUC)</b>
+- <b>Active Directory Sites and Services</b>
+- <b>Group Policy Management Consolo (GPMC)</b>
+- <b>Virtualization Software (e.g., Hyper-V, VirtualBox, VMware)</b>
 
 <h2>Environments Used </h2>
 
