@@ -1,9 +1,8 @@
 <h1>Active Directory Home Lab </h1>
 
 <h2>Description</h2>
-In this instructional guide, we will systematically guide you through the process of establishing an Active Directory home laboratory environment using Oracle Virtual Box. Engaging in the configuration and operation of this laboratory will significantly enhance your comprehension of Active Directory and Windows networking principles. I strongly recommend revisiting the tutorial multiple times, prompting yourself with questions when uncertainties arise, and ultimately attempting to replicate the setup independently, progressively reducing reliance on external guidance.
-<br />
 
+In this instructional guide, made by [Josh Makador](https://www.youtube.com/@JoshMadakor), we will systematically walk you through the process of establishing an Active Directory home laboratory environment using Oracle VirtualBox. Engaging in the configuration and operation of this lab will significantly enhance your understanding of Active Directory and Windows networking principles. I encourage you to revisit the tutorial multiple times, ask yourself questions when uncertainties arise, and ultimately attempt to replicate the setup independently, progressively reducing your reliance on external guidance.
 
 <h2>Languages and Utilities Used</h2>
 
