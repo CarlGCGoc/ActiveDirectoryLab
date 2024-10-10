@@ -25,8 +25,7 @@ In this instructional guide, we will systematically guide you through the proces
 
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+![image alt](https://github.com/CarlGoc/ActiveDirectoryLab/blob/a9bbfb6a2053819f4e4becfa7e85596bf996052f/active_directory_diagram.jpg)
 <br />
 Select the disk:  <br/>
 <img [src="https://i.imgur.com/tcTyMUE.png"] height="80%" width="80%" alt="Disk Sanitization Steps"/>
