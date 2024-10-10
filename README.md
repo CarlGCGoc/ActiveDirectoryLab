@@ -23,40 +23,4 @@ In this instructional guide, we will systematically guide you through the proces
 
 <h2>Diagram</h2>
 
-<p align="center">
- <br/>
-![image alt]([https://github.com/CarlGoc/ActiveDirectoryLab/blob/a9bbfb6a2053819f4e4becfa7e85596bf996052f/active_directory_diagram.jpg)](https://github.com/CarlGoc/ActiveDirectoryLab/blob/main/active_directory_diagram.jpg?raw=true)
-<br />
-Select the disk:  <br/>
-<img [src="https://i.imgur.com/tcTyMUE.png"] height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+![image alt](https://github.com/CarlGoc/ActiveDirectoryLab/blob/559c8f44ad1d79d95b803d8aa07443839d10cd83/active_directory_diagram.jpg)
