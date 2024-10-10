@@ -34,3 +34,15 @@ In this instructional guide, we will systematically guide you through the proces
 [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) [Windows 2019 Server](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 
 <h2>Create a new virtual machine in VirtualBox by clicking 'New,' naming it 'Domain Controller,' and selecting the Windows Server 2019 ISO file as the boot media.</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image2.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image3.png)
+
+<h2>Configure the virtual machine with two network adapters: one for internet access and another for the private network.</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image4.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/4eb4fe5d440527da2824173046d33c794ce666ab/image5.png)
+
+<h2>Install Windows Server 2019 on the virtual machine and assign IP addresses for the internal network.</h2>
+
