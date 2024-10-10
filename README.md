@@ -21,7 +21,7 @@ In this instructional guide, we will systematically guide you through the proces
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b>
 
-<h2>Diagram:</h2>
+<h2>Diagram</h2>
 
 <p align="center">
  <br/>
