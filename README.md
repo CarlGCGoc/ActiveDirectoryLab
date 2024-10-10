@@ -21,15 +21,15 @@ In this instructional guide, we will systematically guide you through the proces
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Diagram:</h2>
 
 <p align="center">
-Download Virtual Box, Windows 10, and Windows Server 2019: <br/>
+ <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img [src="https://i.imgur.com/tcTyMUE.png"] height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
