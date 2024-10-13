@@ -4,17 +4,6 @@
 
 In this instructional guide, made by [Josh Makador](https://www.youtube.com/@JoshMadakor), we will systematically walk you through the process of establishing an Active Directory home laboratory environment using Oracle VirtualBox. Engaging in the configuration and operation of this lab will significantly enhance your understanding of Active Directory and Windows networking principles. I encourage you to revisit the tutorial multiple times, ask yourself questions when uncertainties arise, and ultimately attempt to replicate the setup independently, progressively reducing your reliance on external guidance.
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Powershell</b> 
-- <b>Bash</b>
-- <b>Python</b>
-- <b>Windows Server</b>
-- <b>Active Directory Users and Computers (ADUC)</b>
-- <b>Active Directory Sites and Services</b>
-- <b>Group Policy Management Consolo (GPMC)</b>
-- <b>Virtualization Software (e.g., Hyper-V, VirtualBox, VMware)</b>
-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
