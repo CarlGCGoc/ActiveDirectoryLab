@@ -67,6 +67,7 @@ In this instructional guide, made by [Josh Makador](https://www.youtube.com/@Jos
 ![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image15.png)
 
 <h2>Execute the PowerShell script to generate 1,000 user accounts in Active Directory.</h2>
+
 [PowerShell Script for creating users](https://github.com/joshmadakor1/AD_PS)
 
 <h2>Set up a new virtual machine named "Client1" and install Windows 10 on it.</h2>
