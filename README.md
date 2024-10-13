@@ -55,3 +55,4 @@ In this instructional guide, made by [Josh Makador](https://www.youtube.com/@Jos
 ![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/14de7616a1ac79595e33a78645d4664cd9adfec5/image10.png)
 
 <h2>Configure routing to enable clients on the private network to access the internet through the domain controller.</h2>
+
