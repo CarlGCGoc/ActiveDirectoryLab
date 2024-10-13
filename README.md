@@ -56,3 +56,17 @@ In this instructional guide, made by [Josh Makador](https://www.youtube.com/@Jos
 
 <h2>Configure routing to enable clients on the private network to access the internet through the domain controller.</h2>
 
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image11.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image12.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image13.png)
+
+<h2>Setting up DHCP on the Domain Controller</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image16.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image14.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/10498a66b31c2daf76c5b73b2c43237b9829841f/image15.png)
+
+<h2>Execute the PowerShell script to generate 1,000 user accounts in Active Directory.</h2>
+[PowerShell Script for creating users](https://github.com/joshmadakor1/AD_PS)
+
+<h2>Set up a new virtual machine named "Client1" and install Windows 10 on it.</h2>
