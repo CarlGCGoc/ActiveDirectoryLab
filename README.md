@@ -60,3 +60,15 @@ This instructional guide, inspired by [Josh Makador's](https://www.youtube.com/@
 [PowerShell Script for creating users](https://github.com/joshmadakor1/AD_PS)
 
 <h2>Set up a new virtual machine named "Client1" and install Windows 10 on it.</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/00d9d3a878f1afa2ea351e6071d0f40570e6b73b/image19.png)
+
+<h2>Connect the client machine to the private network and join it to the domain.</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/00d9d3a878f1afa2ea351e6071d0f40570e6b73b/image17.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/00d9d3a878f1afa2ea351e6071d0f40570e6b73b/image18.png)
+
+<h2>Log into the client machine with the domain account you've created.</h2>
+
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/00d9d3a878f1afa2ea351e6071d0f40570e6b73b/image20.png)
+![image](https://github.com/CarlGoc/ActiveDirectoryLab/blob/00d9d3a878f1afa2ea351e6071d0f40570e6b73b/image21.png)
